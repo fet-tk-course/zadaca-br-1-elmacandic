@@ -66,7 +66,8 @@ conflict-test
 
 U ovom fajlu pronađite sljedeću rečenicu i izmijenite je:
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
+
 
 Promijenite je u:
 
