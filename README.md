@@ -24,7 +24,9 @@ Cilj ovog zadatka je da uvježbate osnovne Git operacije:
 ---
 
 ## Koraci zadatka
+## Uvod
 
+Zdravo. Ja sam Elma, student na fakultetu elektrotehnike. Imam 22 godine. 
 ### 1. Uredite ovaj fajl
 
 Dodajte svoje ime i GitHub username u sekciji **Student**.
